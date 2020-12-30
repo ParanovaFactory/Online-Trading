@@ -1,0 +1,21 @@
+O:\Udemy\Udemy C# Projeleri\Online Satış\Online Satış\obj\Debug\Online Satış.csprojAssemblyReference.cache
+O:\Udemy\Udemy C# Projeleri\Online Satış\Online Satış\obj\Debug\Online_Satış.Properties.Resources.resources
+O:\Udemy\Udemy C# Projeleri\Online Satış\Online Satış\obj\Debug\Online Satış.csproj.GenerateResource.cache
+O:\Udemy\Udemy C# Projeleri\Online Satış\Online Satış\obj\Debug\Online Satış.csproj.CoreCompileInputs.cache
+O:\Udemy\Udemy C# Projeleri\Online Satış\Online Satış\bin\Debug\Online Satış.exe.config
+O:\Udemy\Udemy C# Projeleri\Online Satış\Online Satış\bin\Debug\Online Satış.exe
+O:\Udemy\Udemy C# Projeleri\Online Satış\Online Satış\bin\Debug\Online Satış.pdb
+O:\Udemy\Udemy C# Projeleri\Online Satış\Online Satış\bin\Debug\EntityFramework.dll
+O:\Udemy\Udemy C# Projeleri\Online Satış\Online Satış\bin\Debug\EntityFramework.SqlServer.dll
+O:\Udemy\Udemy C# Projeleri\Online Satış\Online Satış\bin\Debug\EntityFramework.xml
+O:\Udemy\Udemy C# Projeleri\Online Satış\Online Satış\bin\Debug\EntityFramework.SqlServer.xml
+O:\Udemy\Udemy C# Projeleri\Online Satış\Online Satış\obj\Debug\Online Satış.csproj.CopyComplete
+O:\Udemy\Udemy C# Projeleri\Online Satış\Online Satış\obj\Debug\Online Satış.exe
+O:\Udemy\Udemy C# Projeleri\Online Satış\Online Satış\obj\Debug\Online Satış.pdb
+O:\Udemy\Udemy C# Projeleri\Online Satış\Online Satış\obj\Debug\Online_Satış.FrmAnaForm.resources
+O:\Udemy\Udemy C# Projeleri\Online Satış\Online Satış\obj\Debug\Online_Satış.FrmKategoriler.resources
+O:\Udemy\Udemy C# Projeleri\Online Satış\Online Satış\obj\Debug\Online_Satış.FrmUrun.resources
+O:\Udemy\Udemy C# Projeleri\Online Satış\Online Satış\obj\Debug\Online_Satış.FrmIstatistik.resources
+O:\Udemy\Udemy C# Projeleri\Online Satış\Online Satış\obj\Debug\Online_Satış.FrmMusteri.resources
+O:\Udemy\Udemy C# Projeleri\Online Satış\Online Satış\obj\Debug\Online_Satış.FrmSatis.resources
+O:\Udemy\Udemy C# Projeleri\Online Satış\Online Satış\obj\Debug\Online_Satış.FrmGiris.resources
